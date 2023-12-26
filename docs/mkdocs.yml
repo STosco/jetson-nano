@@ -1,0 +1,9 @@
+site_name: Jetson Nano
+docs_dir: src
+site_dir: site
+theme: 
+    name: readthedocs
+    highlightjs: true
+nav:
+    - Docs Build: index.md
+    - Basic install: basic_install.md
